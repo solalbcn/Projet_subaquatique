@@ -17,7 +17,10 @@ Nous étions un groupe de 4 étudiants, la première étape a été de décider 
 
 Pour ma part je me suis principalement occupéde l'implémentation de la VR grâce au package d'intégration d'Oculus présent dans l'asset store de Unity.
 Lors de ce projet j'ai donc implémenter le joueur, l'interaction avec des objets ainsi que l'interface utilisateur.
+Scooter          |  Lampe Torche |  Menu
+:-------------------------:|:-------------------------:|:-------------------------:
+![](VR_Scooter.PNG)  |  ![](VR_Torche.PNG)|  ![](VR_Menu.PNG)
 
-![](projetAO.png)
-
-
+Avant           |  Après
+:-------------------------:|:-------------------------:
+![](Avant.png)  |  ![](Après.png)
